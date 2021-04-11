@@ -33,7 +33,7 @@ deposit
 a check
 withdraw money
 withdraw
-withdrawas
+withdrawals
 bank teller
 teller
 balance sheet

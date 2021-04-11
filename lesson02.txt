@@ -1,0 +1,72 @@
+shop
+by-product
+marketing
+retailing
+merchandise
+manufacturing
+commodities
+marketing
+project management
+insurance
+baker's
+butcher's
+department store
+dry cleaner's
+fish shop
+fishmonger's
+greengrocer's
+grocer's
+ironmonger's
+hardwre store
+stationer's
+sweet shop
+cigarette shop
+tobacconist's
+barbershop
+bookstore
+bookshop
+convenience store
+shopping center
+mall
+supermarket
+drugstore
+chemist's
+florist's
+optician's
+outlet
+factory
+damaged
+goods
+audience
+non-employees
+manufacturer-branded
+malls
+retail
+ultimate customers
+stock
+on sale
+price tag
+label
+bar code
+coupon
+order
+salesclerk
+salesperson
+cash register
+gift certificates
+exchange rate
+refund
+cashier
+wallet
+scale
+weighing
+weighting
+basket
+changing room
+fitting room
+cart
+shopping cart
+trolley
+gift-wrapped
+cash or charge
+souvenirs

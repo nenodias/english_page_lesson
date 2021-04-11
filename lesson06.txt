@@ -1,0 +1,161 @@
+food
+drinks
+cuisine
+foodstuffs
+grains
+produce
+cooking fats
+stable food
+wheat
+rye
+ubiquitous
+prevalent
+feauring
+stands in contrast to
+likewise
+pulses
+seasonings
+meat
+beef
+chicken
+fish
+pork
+wild boar
+sausage
+ham
+bacon
+turkey
+lamb
+duck
+frog
+salmon
+sardine
+tuna
+trout
+cod
+swordfish
+tilapia
+seafood
+anchovy
+caviar
+crab
+shrimp
+octopus
+oyester
+starfish
+fruit
+apple
+banana
+orange
+pineapple
+cherry
+lemon
+papaya
+strawberry
+coconut
+fig
+grape
+kiwi
+mango
+melon
+pear
+peach
+plum
+blackberry
+blueberry
+apricot
+raspberry
+avocado
+guava
+vegetables
+potato
+broccoli
+carrot
+asparagus
+beetroot
+brussels sprout
+cabbage
+celery
+cucumber
+garlic
+ginger
+mushroom
+onion
+peper
+pumpkin
+corn
+spinach
+squash
+radish
+cauliflower
+leek
+dairy
+butter
+cream
+cheese
+cream chease
+margarine
+milk
+yoghurt
+breakfast
+cereal
+cornflakes
+honey
+sauce
+ketchup
+mayonnaise
+mustard
+jam
+marmalade
+porridge
+toast
+snacks
+biscuits
+chocolate
+crisps
+fries
+nuts
+sweets
+olives
+bag of
+bar of
+bottle of
+carton of
+box of
+jar of
+tin of
+can on
+tub of
+drinks
+beverages
+consumption
+ethanol
+alcohol
+non-alcoholic beverages
+underdone
+water
+mineral water
+spring water
+purified water
+sparkling water
+well water
+artesian water
+tap water
+tonic water
+milk
+whole milk
+skim milk
+alcoholic
+concentration of alcohol
+alcohol by volume
+ml
+ethanol
+beverages
+wine
+beer
+cider
+vodka
+gin 
+tequila
+champagne
+liqueur

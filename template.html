@@ -1,0 +1,12 @@
+<div id="row-{index}" class="form-group alert">
+    <label>Word: #{index}</label>
+    <audio controls>
+    <source id="sound-{index}" src="{filename}" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+    <input type="text" id="write-{index}" class="form-control" />
+    <button type="button" id="button-{index}" onclick="javascript:checkAnswer({index});"
+        class="btn btn-success"
+    >Check</button>
+    <input type="hidden" id="answer-{index}" value="{word}" />
+</div>

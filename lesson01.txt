@@ -1,0 +1,94 @@
+travel
+airport
+landside
+airside
+aircraft
+runways
+taxiways
+ramps
+tightly
+express check-in
+check-in counter
+terminal
+baggage
+luggage
+check-in
+counter
+carry-on bag
+security
+boarding gate
+flight
+layover
+stopover
+connection
+cabin crew
+carousel
+nothing to declare
+passport
+visa
+time zone
+jet lag
+customs
+customs officer
+baggage cart
+luggage cart
+one-way ticket
+single ticket
+business trip
+make a round trip
+take off
+land
+at the train station
+rail freight transport
+cargo
+freight train
+hauled
+locomotives
+railway
+shipper
+logistics chain
+bulk
+containers
+freight
+platform
+reduced fare
+ferry
+boat
+cruise
+go on a cruise
+bus station
+parking lot
+car park
+rent a car
+hire a car
+breakdown
+garage
+insurance
+travel insurance
+covers
+insured
+medical expenses
+trip cancellations
+airplane tickets
+trave packages
+purchage
+insurance policies
+damage
+ransom
+kidnapping
+fix the car
+destination
+passenger
+route
+travel agent
+excursion
+hotel
+hostel
+youth hostel
+motel
+go sightseeing
+do some sightseeing
+go on board
+subway
+tube
+underground

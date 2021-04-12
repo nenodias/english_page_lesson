@@ -10,7 +10,7 @@ wheat
 rye
 ubiquitous
 prevalent
-feauring
+featuring
 stands in contrast to
 likewise
 pulses
@@ -41,7 +41,7 @@ caviar
 crab
 shrimp
 octopus
-oyester
+oyster
 starfish
 fruit
 apple
@@ -81,7 +81,7 @@ garlic
 ginger
 mushroom
 onion
-peper
+pepper
 pumpkin
 corn
 spinach
@@ -93,7 +93,7 @@ dairy
 butter
 cream
 cheese
-cream chease
+cream cheese
 margarine
 milk
 yoghurt
@@ -124,7 +124,7 @@ carton of
 box of
 jar of
 tin of
-can on
+can of
 tub of
 drinks
 beverages
@@ -132,7 +132,7 @@ consumption
 ethanol
 alcohol
 non-alcoholic beverages
-underdone
+undergone
 water
 mineral water
 spring water

@@ -38,7 +38,7 @@ bank teller
 teller
 balance sheet
 assets
-liabilitiess
+liabilities
 shareholders
 financial advisor
 financial adviser
@@ -64,7 +64,7 @@ security
 commodities
 fungible
 item of value
-suply
+supply
 demand
 stocks
 bonds
@@ -87,7 +87,7 @@ foreign currency
 forward transaction
 to cash a check
 money laundering
-net yeld
+net yield
 payment order
 note of hand
 promissory note
@@ -101,13 +101,13 @@ renew
 in the red
 to gross yield
 stock
-dividents
+dividends
 withholding tax
 net dividend yield
 rental income
 operating expenses
 due date
-expire date
+expiry date
 bank clerk
 credit limit
 Dow Jones Index

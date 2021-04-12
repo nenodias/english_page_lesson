@@ -65,7 +65,7 @@ opening
 to operate
 to organize
 to overcome
-to perceice
+to perceive
 to perform
 to plan
 to promote
@@ -74,10 +74,10 @@ to raise
 to recruit
 recruits
 to redesign
-ro repair
+to repair
 to replace
 replaced
-to salve
+to save
 to strengthen
 to upgrade
 to validate
@@ -93,7 +93,7 @@ core job elements
 stable
 traits
 knowledge
-accquired
+acquired
 skills
 abilities
 conscientiousness
@@ -115,7 +115,7 @@ innovative
 loyal
 mature
 methodical
-objetive
+objective
 outgoing
 positive
 productive

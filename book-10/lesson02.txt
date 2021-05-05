@@ -1,0 +1,57 @@
+thoroughfare
+highways
+trails
+strait
+channel
+waterway
+bridle path
+bridleway
+equestrian trails
+cycle way
+footpath
+pedestrian way
+walking trail
+nature trail
+foreshore way
+greenway
+recreational
+environmental
+hiking trail
+countryside
+long-distance trails
+right-of-way
+oil
+gas
+pipelines
+sidewalk
+snowshoe trail
+towpath
+public transportation
+provate vehicle
+to carpool
+parking spaces
+subway
+transportation
+crowded bus
+crowded metro
+crowded train
+rush hour
+peak hour
+congested highway
+traffic jam
+pull over
+car lane
+bike lane
+telecommute
+train
+tram
+run over
+run out of
+a season ticket
+road rage
+traffic holdup
+bumper-to-bumper traffic
+stuck in traffic
+transportation woes
+gridlock
+pull out

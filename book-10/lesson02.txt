@@ -1,3 +1,4 @@
+commuting
 thoroughfare
 highways
 trails
@@ -6,7 +7,7 @@ channel
 waterway
 bridle path
 bridleway
-equestrian trails
+equestrian trail
 cycle way
 footpath
 pedestrian way
@@ -20,14 +21,12 @@ hiking trail
 countryside
 long-distance trails
 right-of-way
-oil
-gas
-pipelines
+oil and gas pipelines
 sidewalk
 snowshoe trail
 towpath
 public transportation
-provate vehicle
+private vehicle
 to carpool
 parking spaces
 subway
@@ -36,7 +35,6 @@ crowded bus
 crowded metro
 crowded train
 rush hour
-peak hour
 congested highway
 traffic jam
 pull over

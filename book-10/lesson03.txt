@@ -1,45 +1,48 @@
-weather 
-air conditioner 
-reeds 
-moistened 
-trickling water 
-blowing 
-humid 
-aqueducts 
-cisterns 
-wind towers 
-emerged from 
-avalanche 
-bellow freezing 
-blizzard 
-boiling hot 
-breeze 
-clear 
-cloudy 
-cold spell 
-drizzling 
-drought 
-flood 
-flurries 
-foggy 
-weather forecast 
-frost 
-small dorm refrigerators 
-coils 
-build up 
-thick 
-room 
-beading up 
-water vapor 
-air condensing 
-immediately 
-hail 
-heat
-wave 
-hurricane 
-mild 
-overcast 
-ice corture 
-slushy 
-smog 
-wind child factor
+meeting
+airport meeting
+minutes
+protocols
+notes
+record
+attendees
+typist
+court reporter
+shorthand notation
+real-time
+terse
+summary
+verbatim report
+board of directors
+Excuse me for interrupting
+If you ask me something, I tend to think that
+Up to a point, I agree with you, but
+Do you see what I am getting at?
+Let me put this another way
+Would you mind if
+I wonder if you could
+Could you run that by me another time?
+I am afraid I don't quite understand what you are getting at.
+Has anyone else got anything to contribute?
+That's not quite what I had in mind.
+Please, be brief
+I'm afraid we've run out of time.
+I'm afraid that's outside the scope of this meeting.
+That's not really why we're here today.
+Why don't we returned to the main focus of today's meeting.
+We're beginning to lose sight of the main point.
+I think we had better leave that for another meeting.
+It looks as though we've covered the main items.
+Is there any other business?
+Shall we fix the next meeting?
+Before we close, let me just summarize the main points
+Thank you all for attending
+I declare the meeting closed
+conference hall
+conference room
+though
+arenas
+concert halls
+fitted out
+windowless
+facility
+overhead projectors

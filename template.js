@@ -7,8 +7,10 @@ function checkAnswer(index) {
     const input = document.querySelector("#write-" + index);
     const button = document.querySelector("#button-" + index);
     const answerInput = document.querySelector("#answer-" + index);
-    const answer = answerInput.value.toLowerCase();
-    const word = input.value.toLowerCase();
+    const SIMBOLOS = ["?","!",",","."]
+    const clean = (x) => SIMBOLOS.reduce((sum, i) => sum.replaceAll(i,''),x.toLowerCase());
+    const answer = clean(answerInput.value);
+    const word = clean(input.value);
     let cssInput = "";
     if (word === answer) {
         results.right += 1;
